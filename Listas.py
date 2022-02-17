@@ -403,6 +403,3 @@ print(nova)
 # Após realizar a modificação em uma das listas, a alteração se refletiu em ambas listas.
 # Em Python, isso é chamado de Shallow Copy.
 """
-
-
-
