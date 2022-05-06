@@ -5,7 +5,7 @@ Escreva um programa que leia números inteiros no intervalo [0,50] e os armazene
 
 imp = []
 import random
-from typing import NamedTuple
+
 result = random.sample(range(0, 51), 10)
 
 print(result)
@@ -16,9 +16,4 @@ for num in result:
 
 print(imp)
 
-# ATÉ O MOMENTO NÃO DESCOBRI UM FORMA DE IMPRIMIR DOIS ITENS POR LINHA.
-
-
-
-for num in range(len(imp)):
-    print(imp[num:num])
+# ATÉ O MOMENTO NÃO DESCOBRI UMA FORMA DE IMPRIMIR DOIS ITENS POR LINHA.

@@ -14,6 +14,7 @@ xjy = []
 junt = []
 cont = 0
 cont1 = 0
+print('Vetor X')
 while True:
     n = int(input('Digite um valor: '))
     if n not in x:
@@ -28,9 +29,10 @@ while True:
 
     if cont == 5:
         print('Vetor x completo!') 
-        break       
+        break 
 
-while True:
+print('Vetor Y')
+while True:   
     n = int(input('Digite um valor: '))
     if n not in y and n not in x:   
         y.append(n)
