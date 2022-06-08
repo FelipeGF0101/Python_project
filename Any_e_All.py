@@ -16,7 +16,7 @@ nomes =['Calos', 'Camila', 'Carla', 'Cassiano', 'Cristina']
 print(all([nome[0] == 'C' for nome in nomes])) # Nesse caso, como todos os elementos da lista começam com a letra 'C', o retorno será 'True'
 
 # Outro exemplo:
-nomes1 =['Calos', 'Camila', 'Carla', 'Cassiano', 'Cristina', 'Daniel']
+nomes1 =['Carlos', 'Camila', 'Carla', 'Cassiano', 'Cristina', 'Daniel']
 
 print(all([nome[0] == 'C' for nome in nomes1])) # Aqui o retorno será 'False' pois nem todos os elementos da lista começam com a letra 'C'
 
