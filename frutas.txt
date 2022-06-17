@@ -1,0 +1,5 @@
+& C:/Users/yurif/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/yurif/Desktop/PROGRAMAÇÃO GERAL/pythonProject/Escrever_em_arquivos.py"
+Melão
+Uva
+Pêra
+Maçã
