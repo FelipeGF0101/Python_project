@@ -1,5 +1,5 @@
 '''
-Funções com parâmetros padrão (Default Paramters)
+Funções com parâmetros padrão (Default Parameters)
 
 - Funções onde a passagem de parâmetros seja opcional;
 
